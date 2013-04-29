@@ -1,0 +1,23 @@
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\bin\Debug\Costes Logisticos Quality.exe.config
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\Costes Logisticos Quality.exe
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\Costes Logisticos Quality.pdb
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\bin\Debug\Costes Logisticos Quality.exe
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\bin\Debug\Costes Logisticos Quality.pdb
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\bin\Debug\office.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\bin\Debug\office.xml
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\Costes_Logisticos_Quality.FrmAgencia.resources
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\Costes_Logisticos_Quality.frmComprArticulo.resources
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\Costes_Logisticos_Quality.FrmProvedorfechas.resources
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\Costes_Logisticos_Quality.Fecha.resources
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\Costes_Logisticos_Quality.FrmPrincipal.resources
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\Costes_Logisticos_Quality.Properties.Resources.resources
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\bin\Debug\Costes Logisticos Quality.exe.manifest
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\bin\Debug\Costes Logisticos Quality.application
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\Costes Logisticos Quality.exe.manifest
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Costes compras\Costes Logisticos Quality\obj\x86\Debug\Costes Logisticos Quality.application

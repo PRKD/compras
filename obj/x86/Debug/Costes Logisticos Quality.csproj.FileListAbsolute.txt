@@ -1,0 +1,13 @@
+c:\users\informatica\documents\visual studio 2010\Projects\Costes Logisticos Quality\Costes Logisticos Quality\bin\Debug\Costes Logisticos Quality.exe
+c:\users\informatica\documents\visual studio 2010\Projects\Costes Logisticos Quality\Costes Logisticos Quality\bin\Debug\Costes Logisticos Quality.pdb
+c:\users\informatica\documents\visual studio 2010\Projects\Costes Logisticos Quality\Costes Logisticos Quality\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\informatica\documents\visual studio 2010\Projects\Costes Logisticos Quality\Costes Logisticos Quality\obj\x86\Debug\Costes_Logisticos_Quality.Form1.resources
+c:\users\informatica\documents\visual studio 2010\Projects\Costes Logisticos Quality\Costes Logisticos Quality\obj\x86\Debug\Costes_Logisticos_Quality.Properties.Resources.resources
+c:\users\informatica\documents\visual studio 2010\Projects\Costes Logisticos Quality\Costes Logisticos Quality\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\informatica\documents\visual studio 2010\Projects\Costes Logisticos Quality\Costes Logisticos Quality\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\informatica\documents\visual studio 2010\Projects\Costes Logisticos Quality\Costes Logisticos Quality\obj\x86\Debug\Costes Logisticos Quality.exe
+c:\users\informatica\documents\visual studio 2010\Projects\Costes Logisticos Quality\Costes Logisticos Quality\obj\x86\Debug\Costes Logisticos Quality.pdb
+c:\users\informatica\documents\visual studio 2010\Projects\Costes Logisticos Quality\Costes Logisticos Quality\bin\Debug\Costes Logisticos Quality.exe.config
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Transporte\Costes Logisticos Quality\bin\Debug\Costes Logisticos Quality.exe.config
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Transporte\Costes Logisticos Quality\obj\x86\Debug\Costes Logisticos Quality.exe
+C:\Users\Informatica\Documents\Visual Studio 2010\Projects\Transporte\Costes Logisticos Quality\obj\x86\Debug\Costes Logisticos Quality.pdb
